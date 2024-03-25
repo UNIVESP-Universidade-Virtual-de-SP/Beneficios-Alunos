@@ -1,1 +1,1 @@
-# Direitos-de-Alunos
+# Direitos dos Alunos
