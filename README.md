@@ -9,12 +9,13 @@ Aqui estão presentes alguns Direitos/Benefícios
  
   - **GitHub Campus Expert training** (Os Campus Experts são líderes estudantis que promovem espaços inclusivos para aprender e compartilhar experiências. Eles organizam eventos e contribuem para projetos de código aberto).
 
-- Microsoft Excel.
-- Microsoft Power Point.
-- Microsoft Word.
-- Microsoft One Note.
-- Microsoft Copilot.
-- Microsoft SharePoint.
+- Pacote Office:
+  - Microsoft Excel.
+  - Microsoft Power Point.
+  - Microsoft Word.
+  - Microsoft One Note.
+  - Microsoft Copilot.
+  - Microsoft SharePoint.
 
 ## Créditos 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Univesp-Computacao&theme=github_dark&repo=lista-beneficios-estudantes)](https://github.com/Univesp-Computacao/lista-beneficios-estudantes)
