@@ -1,4 +1,4 @@
-# 📚 | Direitos dos Alunos
+# 📚 Direitos dos Alunos
 
 - 📖 [GitHub Education](https://education.github.com/discount_requests/application).
   - **Github PRO** enquanto se é Aluno.
