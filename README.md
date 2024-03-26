@@ -1,8 +1,11 @@
-# 📚 Direitos dos Alunos
+# Direitos dos Alunos 📚.
 
 Aqui estão presentes alguns Direitos/Benefícios
 
-- 📖 [GitHub Education](https://education.github.com/discount_requests/application) **100% Gratuito** enquanto se é Aluno.
+- [GitHub Education](https://education.github.com/discount_requests/application)📖
+
+  - **100% Gratuito** enquanto se é Aluno.
+
   - **Github PRO**.
 
   - **GitHub Student Developer Pack** (Disponibilidade de diferentes cursos para variadas ferramentas, ou linguagens).
@@ -29,6 +32,6 @@ Aqui estão presentes alguns Direitos/Benefícios
     - [Microsoft To Do](https://www.microsoft.com/pt-br/microsoft-365/microsoft-to-do-list-app) (Liste e gerencie suas tarefas).
     
 ## Créditos 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Univesp-Computacao&theme=swift&repo=lista-beneficios-estudantes)](https://github.com/Univesp-Computacao/lista-beneficios-estudantes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Univesp-Computacao&theme=github_dark&repo=lista-beneficios-estudantes)](https://github.com/Univesp-Computacao/lista-beneficios-estudantes)
 
 ---
