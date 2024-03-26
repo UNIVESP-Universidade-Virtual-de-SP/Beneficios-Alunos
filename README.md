@@ -2,7 +2,7 @@
 
 Aqui estão presentes alguns Direitos/Benefícios
 
-- [GitHub Education 📖.](https://education.github.com/discount_requests/application)
+- [GitHub Education 📖:](https://education.github.com/discount_requests/application)
 
   - **100% Gratuito** enquanto se é Aluno.
 
@@ -12,7 +12,7 @@ Aqui estão presentes alguns Direitos/Benefícios
  
   - **GitHub Campus Expert training** (Os Campus Experts são líderes estudantis que promovem espaços inclusivos para aprender e compartilhar experiências. Eles organizam eventos e contribuem para projetos de código aberto).
 
-- [Microsoft 365 🌐.](https://www.office.com):
+- [Microsoft 365 🌐:](https://www.office.com):
     - [Microsoft Excel](https://www.microsoft.com/pt-br/microsoft-365/excel) (Aplicativo de planilha eletrônica para análise e organização de dados).
     - [Microsoft PowerPoint](https://www.microsoft.com/pt-br/microsoft-365/powerpoint) (Software de apresentação para criar slides profissionais).
     - [Microsoft Word](https://www.microsoft.com/pt-br/microsoft-365/word) (Programa de processamento de texto usado para criar e editar documentos).
