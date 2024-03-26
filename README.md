@@ -1,4 +1,4 @@
-# Direitos dos Alunos 📚.
+# Benefícios Alunos Univesp 📚.
 
 Aqui estão presentes alguns Direitos/Benefícios
 
