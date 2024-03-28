@@ -4,9 +4,7 @@ Aqui estão presentes alguns Direitos/Benefícios
 
 - [GitHub Education 📖:](https://education.github.com/discount_requests/application)
 
-  - **100% Gratuito** enquanto se é Aluno.
-
-  - **Github PRO**.
+  - **Github PRO 100% Gratuito** enquanto se é Aluno.
 
   - **GitHub Student Developer Pack** (Disponibilidade de diferentes cursos para variadas ferramentas, ou linguagens).
  
