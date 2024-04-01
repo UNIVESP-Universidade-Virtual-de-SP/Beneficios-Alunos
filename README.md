@@ -79,5 +79,3 @@ Uma assinatura gratuita para estudantes, a ser renovada anualmente.
     
 ## Créditos 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Univesp-Computacao&theme=github_dark&repo=lista-beneficios-estudantes)](https://github.com/Univesp-Computacao/lista-beneficios-estudantes)
-
----
